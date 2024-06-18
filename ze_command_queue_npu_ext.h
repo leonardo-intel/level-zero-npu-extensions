@@ -56,7 +56,7 @@ typedef struct _ze_command_queue_npu_dditable_ext_1_0_t
 {
     // version 1.0
     ze_pfnCommandQueueSetWorkloadType_ext_t pfnSetWorkloadType;
-};
+} ze_command_queue_npu_dditable_ext_1_0_t;
 
 #if defined(__cplusplus)
 } // extern "C"
